@@ -1,0 +1,7 @@
+@use './Styles/Mixins.scss' as mix;
+@use './Styles/Variables.scss' as var;
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
